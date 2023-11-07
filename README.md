@@ -1,1 +1,1 @@
-# cricket_scorecard_managementmen
+# Cricket-Scorecard-Management-Java
